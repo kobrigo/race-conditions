@@ -29,7 +29,7 @@ export class AppComponent implements OnInit {
 
     this.setupStreamOfEvents();
   }
-  //Using a read server
+  //Using a real server
 
   setupStreamOfEvents() {
     // The steam of event but still with the problem
